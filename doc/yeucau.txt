@@ -1,0 +1,31 @@
+1: C?u trúc project
+-- public
+	|-- css
+	|-- js
+	|-- images
+	|-- font
+-- template
+	|-- menu.html
+	|-- ...
+-- index.html
+2: C?u trúc file index
+ html (chu?n utf-8)
+ |--body
+    |-- menu ()
+    |-- slier
+    |-- booktour and video
+    |-- content product
+    |-- slider marketing
+    |-- news (news highlight)
+    |-- feedback (slider)
+    |-- footer  
+1: Chú thích cho m?i bock 
+   ex:
+	<!-- start menu -->
+	<div class="menu">content</div>
+	<!-- end menu -->
+   ti?u rule code html-css ([AL] Tài Li?u Quy Ð?nh Code Standard HTML - CSS - v1.xlsx)
+2: Css: reset page tru?c khi làm, set font cho page
+3: Git: checkout branch develop -> tao barnch làm vi?c t? develop
+   - format t?o branch: feature/{block} ex: feature/menu | *** change space -> _
+   - Cách s? d?ng git ([AL] Tài Li?u Quy Ð?nh S? D?ng GIT - v1.xlsx)
